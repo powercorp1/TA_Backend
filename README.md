@@ -105,7 +105,7 @@ git clone git@github.com:RGLxAkuma/TA-Allocation-Portal-Frontend.git
 ###### HTTPS
 
 ```
-git clone https://github.com/RGLxAkuma/TA-Allocation-Portal-Frontend.git
+git clone https://github.com/powercorp1/TA_Frontend.git
 ```
 
 ###### GitHub CLI
@@ -125,7 +125,7 @@ git clone git@github.com:RGLxAkuma/TA-Allocation-Portal-Backend.git
 ###### HTTPS
 
 ```
-git clone https://github.com/RGLxAkuma/TA-Allocation-Portal-Backend.git
+git clone https://github.com/powercorp1/TA_Backend.git
 ```
 
 ###### GitHub CLI
