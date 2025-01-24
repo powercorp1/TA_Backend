@@ -30,7 +30,7 @@ const cors = require("cors");
 // const fileupload = require("express-fileupload");
 
 const MONGODB_URI =
-  "mongodb+srv://saidelgy94:test123@cluster0.bo3stvr.mongodb.net/test3";
+  "mongodb+srv://*/////*:*/////*cluster0.bo3stvr.mongodb.net/test3";
 
 const facultyRoute = require("./routes/faculty");
 const studentRoute = require("./routes/student");
